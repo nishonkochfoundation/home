@@ -1,0 +1,21 @@
+body {
+	background-image: url(1.jpg);
+	background-size: cover;
+}
+
+section {
+	position: relative;
+	max-width: cover;
+	padding: 20px;
+	background: rgba(255, 255, 255, 0.2);
+	box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
+	font-family: "Roboto", sans-serif;
+	font-weight: bold;
+	font-size: x-large;
+}
+u{
+	font-size: 19px;
+	font-family: "Roboto", sans-serif;
+	font-weight: bold;
+	text-decoration: none;
+}
